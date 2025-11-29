@@ -1,4 +1,4 @@
-DNA-MUT
+Neculo-MUT
 ============
 This simple C# consol application that can be used to do a simple task of taking two random SEQ of Nucleic Acid "equal in length" and Make THIS magic (:D) :-
 
